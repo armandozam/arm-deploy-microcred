@@ -24,7 +24,7 @@ def main():
         # Make DataFrame for model
         input_variables = pd.DataFrame([[hewan, diagnosa]],
                                        columns=['hewan', 'diagnosa'],
-                                       dtype=str,
+                                       dtype=float,
                                        index=['input'])
 
         # Get the model's prediction
