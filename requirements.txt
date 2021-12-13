@@ -1,0 +1,8 @@
+flask
+pandas
+gunicorn
+sklearn
+GaussianNB
+LabelEncoder
+pandas
+numpy
