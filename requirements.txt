@@ -1,0 +1,12 @@
+flask
+pandas
+gunicorn
+sklearn
+sklearn.preprocessing
+sklearn.model_selection
+sklearn.naive_bayes
+GaussianNB
+LabelEncoder
+pandas
+numpy
+matplotlib.pyplot
